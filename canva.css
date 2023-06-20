@@ -1,0 +1,38 @@
+body{
+  font-family: 'Amatic SC', cursive;
+  background-color: rgb(95,207,128);
+  color: white;
+  text-shadow: 0.5px 0.5px #000000
+}
+
+#quote-box {
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  font-size: 80px;
+}
+
+#source{
+  position: absolute;
+  font-size: 60px;
+  left: 70%;
+  text-shadow: 0.5px 0.5px #000000;
+}
+
+#btn{
+  text-shadow: 0.5px 0.5px #000000;
+  font-family: 'Amatic SC', cursive;
+  background-color: transparent;
+  transition: 0.6;
+  position: fixed;
+  left: 40%;
+  bottom: 80px;
+  height: 100px;
+  font-size: 50px;
+  width: 400px;
+  border-color: white;
+  border-radius: 20px;
+  color: white;
+}
